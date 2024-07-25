@@ -9,6 +9,10 @@
 Character Product offers a diverse range of suggestions for packaging designs, including collectibles, clothing, household items, stationery, school supplies, memorabilia, and fashion items. By combining the iconic appeal of beloved characters with practical product categories, the GPT enables users to create unique and marketable packaging. Whether the goal is to design a Funko Pop! figure box featuring Spider-Man, a backpack with Game of Thrones motifs, or a vinyl record cover for a Taylor Swift album, Character Product provides tailored recommendations and generates high-quality images to bring these concepts to life.
 
 #
+
+![Examples](https://github.com/user-attachments/assets/9faf15bf-d79f-47c4-870e-cbf706dae2f0)
+
+#
 ### Relatred Links
 
 [ChatGPT]()
